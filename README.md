@@ -8,7 +8,7 @@
 **2.** [1791A - Codeforces Checking.py](https://github.com/ICPC-Delta/Newbie-Day/blob/main/1791A%20-%20Codeforces%20Checking.py)\
 [problem link on codeforces](https://codeforces.com/problemset/problem/1791/A)
 
-**3.** [1742A - Sum](https://github.com/ICPC-Delta/Newbie-Day/blob/main/1742A%20-%20Sum.py)\
+**3.** [1742A - Sum.py](https://github.com/ICPC-Delta/Newbie-Day/blob/main/1742A%20-%20Sum.py)\
 [problem link on codeforces](https://codeforces.com/problemset/problem/1742/A)
 
 **4.** [1542A - Odd Set.py](https://github.com/ICPC-Delta/Newbie-Day/blob/main/1542A%20-%20Odd%20Set.py)\
